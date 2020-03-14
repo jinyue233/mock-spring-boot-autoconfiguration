@@ -14,6 +14,7 @@
         <module>mq-spring-boot-autoconfigure</module>
         <module>mq-spring-boot-starters</module>
         <module>mq-spring-boot-starter-tests</module>
+        <module>activemq-other-dependency</module>
     </modules>
 
 
